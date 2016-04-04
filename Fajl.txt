@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Fajlovi 222
+=======
+Fajlovi 222
+>>>>>>> 57f3ed7d2d0494e57c6ea55bda06fb3ad2669a1f
