@@ -1,2 +1,10 @@
 Aprili lili 
-gazot ti sviri22
+<<<<<<< HEAD
+gazot ti sviri
+so chetiri slivi
+ednata pukna
+=======
+gazot ti sviri
+so chetiri slivi
+ednata pukna
+>>>>>>> e78b9b3ab92e484247af185ce3216c87a4effa5d
