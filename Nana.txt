@@ -1,2 +1,7 @@
+<<<<<<< a0ba043a9cf7d6a10a575be4fe273cb0df52bbeb
 nana
 mana
+=======
+nana 
+mana
+>>>>>>> Modify Nana.txt
